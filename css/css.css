@@ -1,0 +1,27 @@
+.hscreen {
+  height: 100vh;
+}
+
+.wscreen {
+  width: 100vw;
+}
+
+.hfull {
+  height: 100%;
+}
+
+.wfull {
+  width: 100%;
+}
+
+.flex {
+  display: flex;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.items-center {
+  align-items: center;
+}
