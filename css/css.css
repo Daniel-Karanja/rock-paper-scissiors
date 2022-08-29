@@ -18,10 +18,27 @@
   display: flex;
 }
 
+.justify-row {
+  flex-direction: row;
+}
+
+.justify-col {
+  flex-direction: column;
+}
+
 .justify-center {
   justify-content: center;
 }
 
 .items-center {
   align-items: center;
+}
+
+.pc-display {
+  margin-top: 10;
+  border: 2px solid grey;
+  border-style: dashed;
+  height: 300px;
+  width: 75%;
+  border-radius: 20px;
 }
